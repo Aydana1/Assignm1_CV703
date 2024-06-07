@@ -1,0 +1,303 @@
+Training results: 
+Train loss at epoch 1 is 2.2387
+Train acc at epoch 1 is 43.8990
+---------------------------Val loss at epoch 1 is 0.0322
+Val acc at epoch 1 is 45.2929
+---------------------------
+---------------------------
+Train loss at epoch 2 is 0.8767
+Train acc at epoch 2 is 73.0764
+---------------------------Val loss at epoch 2 is 0.0186
+Val acc at epoch 2 is 71.9184
+---------------------------
+---------------------------
+Train loss at epoch 3 is 0.4577
+Train acc at epoch 3 is 85.4576
+---------------------------Val loss at epoch 3 is 0.0294
+Val acc at epoch 3 is 83.1611
+---------------------------
+---------------------------
+Train loss at epoch 4 is 0.3392
+Train acc at epoch 4 is 89.4282
+---------------------------Val loss at epoch 4 is 0.0171
+Val acc at epoch 4 is 86.8178
+---------------------------
+---------------------------
+Train loss at epoch 5 is 0.2337
+Train acc at epoch 5 is 92.5590
+---------------------------Val loss at epoch 5 is 0.0441
+Val acc at epoch 5 is 89.7244
+---------------------------
+---------------------------
+Train loss at epoch 6 is 0.1984
+Train acc at epoch 6 is 93.7940
+---------------------------Val loss at epoch 6 is 0.0302
+Val acc at epoch 6 is 90.5691
+---------------------------
+---------------------------
+Train loss at epoch 7 is 0.1880
+Train acc at epoch 7 is 94.2077
+---------------------------Val loss at epoch 7 is 0.0554
+Val acc at epoch 7 is 91.0026
+---------------------------
+---------------------------
+Train loss at epoch 8 is 0.1829
+Train acc at epoch 8 is 94.2757
+---------------------------Val loss at epoch 8 is 0.0323
+Val acc at epoch 8 is 91.4249
+---------------------------
+---------------------------
+Train loss at epoch 9 is 0.1909
+Train acc at epoch 9 is 94.1583
+---------------------------Val loss at epoch 9 is 0.0175
+Val acc at epoch 9 is 91.1415
+---------------------------
+---------------------------
+Train loss at epoch 10 is 0.1526
+Train acc at epoch 10 is 95.1402
+---------------------------Val loss at epoch 10 is 0.0311
+Val acc at epoch 10 is 92.0084
+---------------------------
+---------------------------
+Train loss at epoch 11 is 0.0270
+Train acc at epoch 11 is 99.3022
+---------------------------Val loss at epoch 11 is 0.0163
+Val acc at epoch 11 is 96.4433
+---------------------------
+---------------------------
+Train loss at epoch 12 is 0.0066
+Train acc at epoch 12 is 99.8765
+---------------------------Val loss at epoch 12 is 0.0119
+Val acc at epoch 12 is 97.0657
+---------------------------
+---------------------------
+Train loss at epoch 13 is 0.0056
+Train acc at epoch 13 is 99.8827
+---------------------------Val loss at epoch 13 is 0.0234
+Val acc at epoch 13 is 97.0546
+---------------------------
+---------------------------
+Train loss at epoch 14 is 0.0058
+Train acc at epoch 14 is 99.8580
+---------------------------Val loss at epoch 14 is 0.0188
+Val acc at epoch 14 is 97.0990
+---------------------------
+---------------------------
+Train loss at epoch 15 is 0.0058
+Train acc at epoch 15 is 99.8827
+---------------------------Val loss at epoch 15 is 0.0412
+Val acc at epoch 15 is 97.1101
+---------------------------
+---------------------------
+Train loss at epoch 16 is 0.0057
+Train acc at epoch 16 is 99.8580
+---------------------------Val loss at epoch 16 is 0.0128
+Val acc at epoch 16 is 97.1213
+---------------------------
+---------------------------
+Train loss at epoch 17 is 0.0058
+Train acc at epoch 17 is 99.8641
+---------------------------Val loss at epoch 17 is 0.0189
+Val acc at epoch 17 is 97.1768
+---------------------------
+---------------------------
+Train loss at epoch 18 is 0.0068
+Train acc at epoch 18 is 99.8394
+---------------------------Val loss at epoch 18 is 0.0062
+Val acc at epoch 18 is 97.0546
+---------------------------
+---------------------------
+Train loss at epoch 19 is 0.0397
+Train acc at epoch 19 is 98.8885
+---------------------------Val loss at epoch 19 is 0.0351
+Val acc at epoch 19 is 95.4596
+---------------------------
+---------------------------
+Train loss at epoch 20 is 0.0331
+Train acc at epoch 20 is 99.0305
+---------------------------Val loss at epoch 20 is 0.0070
+Val acc at epoch 20 is 96.1320
+---------------------------
+---------------------------
+Train loss at epoch 21 is 0.0056
+Train acc at epoch 21 is 99.8580
+---------------------------Val loss at epoch 21 is 0.0173
+Val acc at epoch 21 is 97.1101
+---------------------------
+---------------------------
+Train loss at epoch 22 is 0.0027
+Train acc at epoch 22 is 99.8888
+---------------------------Val loss at epoch 22 is 0.0285
+Val acc at epoch 22 is 97.1157
+---------------------------
+---------------------------
+Train loss at epoch 23 is 0.0028
+Train acc at epoch 23 is 99.8765
+---------------------------Val loss at epoch 23 is 0.0317
+Val acc at epoch 23 is 97.1379
+---------------------------
+---------------------------
+Train loss at epoch 24 is 0.0028
+Train acc at epoch 24 is 99.8765
+---------------------------Val loss at epoch 24 is 0.0118
+Val acc at epoch 24 is 97.1824
+---------------------------
+---------------------------
+Train loss at epoch 25 is 0.0027
+Train acc at epoch 25 is 99.8950
+---------------------------Val loss at epoch 25 is 0.0157
+Val acc at epoch 25 is 97.1824
+---------------------------
+---------------------------
+Train loss at epoch 26 is 0.0029
+Train acc at epoch 26 is 99.8827
+---------------------------Val loss at epoch 26 is 0.0274
+Val acc at epoch 26 is 97.1768
+---------------------------
+---------------------------
+Train loss at epoch 27 is 0.0030
+Train acc at epoch 27 is 99.8827
+---------------------------Val loss at epoch 27 is 0.0200
+Val acc at epoch 27 is 97.1880
+---------------------------
+---------------------------
+Train loss at epoch 28 is 0.0029
+Train acc at epoch 28 is 99.8888
+---------------------------Val loss at epoch 28 is 0.0067
+Val acc at epoch 28 is 97.1880
+---------------------------
+---------------------------
+Train loss at epoch 29 is 0.0030
+Train acc at epoch 29 is 99.8765
+---------------------------Val loss at epoch 29 is 0.0244
+Val acc at epoch 29 is 97.1824
+---------------------------
+---------------------------
+Train loss at epoch 30 is 0.0029
+Train acc at epoch 30 is 99.8703
+---------------------------Val loss at epoch 30 is 0.0071
+Val acc at epoch 30 is 97.1713
+---------------------------
+---------------------------
+Train loss at epoch 31 is 0.0020
+Train acc at epoch 31 is 99.9197
+---------------------------Val loss at epoch 31 is 0.0008
+Val acc at epoch 31 is 97.2602
+---------------------------
+---------------------------
+Train loss at epoch 32 is 0.0016
+Train acc at epoch 32 is 99.8950
+---------------------------Val loss at epoch 32 is 0.0113
+Val acc at epoch 32 is 97.2602
+---------------------------
+---------------------------
+Train loss at epoch 33 is 0.0017
+Train acc at epoch 33 is 99.8703
+---------------------------Val loss at epoch 33 is 0.0037
+Val acc at epoch 33 is 97.1991
+---------------------------
+---------------------------
+Train loss at epoch 34 is 0.0016
+Train acc at epoch 34 is 99.8888
+---------------------------Val loss at epoch 34 is 0.0341
+Val acc at epoch 34 is 97.2157
+---------------------------
+---------------------------
+Train loss at epoch 35 is 0.0017
+Train acc at epoch 35 is 99.9135
+---------------------------Val loss at epoch 35 is 0.0094
+Val acc at epoch 35 is 97.2157
+---------------------------
+---------------------------
+Train loss at epoch 36 is 0.0018
+Train acc at epoch 36 is 99.8641
+---------------------------Val loss at epoch 36 is 0.0248
+Val acc at epoch 36 is 97.2213
+---------------------------
+---------------------------
+Train loss at epoch 37 is 0.0018
+Train acc at epoch 37 is 99.8827
+---------------------------Val loss at epoch 37 is 0.0575
+Val acc at epoch 37 is 97.2213
+---------------------------
+---------------------------
+Train loss at epoch 38 is 0.0017
+Train acc at epoch 38 is 99.9012
+---------------------------Val loss at epoch 38 is 0.0083
+Val acc at epoch 38 is 97.2102
+---------------------------
+---------------------------
+Train loss at epoch 39 is 0.0017
+Train acc at epoch 39 is 99.9012
+---------------------------Val loss at epoch 39 is 0.0005
+Val acc at epoch 39 is 97.1991
+---------------------------
+---------------------------
+Train loss at epoch 40 is 0.0018
+Train acc at epoch 40 is 99.8950
+---------------------------Val loss at epoch 40 is 0.0345
+Val acc at epoch 40 is 97.2269
+---------------------------
+---------------------------
+Train loss at epoch 41 is 0.0013
+Train acc at epoch 41 is 99.9135
+---------------------------Val loss at epoch 41 is 0.0215
+Val acc at epoch 41 is 97.2380
+---------------------------
+---------------------------
+Train loss at epoch 42 is 0.0013
+Train acc at epoch 42 is 99.8950
+---------------------------Val loss at epoch 42 is 0.0114
+Val acc at epoch 42 is 97.2380
+---------------------------
+---------------------------
+Train loss at epoch 43 is 0.0013
+Train acc at epoch 43 is 99.8950
+---------------------------Val loss at epoch 43 is 0.0434
+Val acc at epoch 43 is 97.2435
+---------------------------
+---------------------------
+Train loss at epoch 44 is 0.0012
+Train acc at epoch 44 is 99.8827
+---------------------------Val loss at epoch 44 is 0.0338
+Val acc at epoch 44 is 97.2380
+---------------------------
+---------------------------
+Train loss at epoch 45 is 0.0012
+Train acc at epoch 45 is 99.8888
+---------------------------Val loss at epoch 45 is 0.0208
+Val acc at epoch 45 is 97.2324
+---------------------------
+---------------------------
+Train loss at epoch 46 is 0.0012
+Train acc at epoch 46 is 99.8765
+---------------------------Val loss at epoch 46 is 0.0298
+Val acc at epoch 46 is 97.2435
+---------------------------
+---------------------------
+Train loss at epoch 47 is 0.0012
+Train acc at epoch 47 is 99.9135
+---------------------------Val loss at epoch 47 is 0.0604
+Val acc at epoch 47 is 97.2602
+---------------------------
+---------------------------
+Train loss at epoch 48 is 0.0012
+Train acc at epoch 48 is 99.8950
+---------------------------Val loss at epoch 48 is 0.0239
+Val acc at epoch 48 is 97.2658
+---------------------------
+---------------------------
+Train loss at epoch 49 is 0.0012
+Train acc at epoch 49 is 99.9074
+---------------------------Val loss at epoch 49 is 0.0214
+Val acc at epoch 49 is 97.2602
+---------------------------
+---------------------------
+Train loss at epoch 50 is 0.0012
+Train acc at epoch 50 is 99.9135
+---------------------------Val loss at epoch 50 is 0.0347
+Val acc at epoch 50 is 97.2713
+---------------------------
+---------------------------
+-----------------
+---------------------------
